@@ -1,4 +1,5 @@
-원본코드import pytest
+원본코드
+import pytest
 
 
 def test_makefile_total_lines(cookies, context):
